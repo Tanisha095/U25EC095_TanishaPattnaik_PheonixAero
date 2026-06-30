@@ -177,27 +177,10 @@ A short written description and flowchart explaining the step-by-step logic behi
 
 ---
 
-## 📷 Sample Outputs
-
-| Question | Output |
-|----------|--------|
-| Q2 | `Total weight: 1.9 kg — Less than 2 kg` |
-| Q4 | `[PX4_001] Alt: 120.5m \| Batt: 67% \| Coords: 23.0225N, 72.5714E` |
-| Q11 | `Total distance: 18.21` / `Longest leg: 5.0` |
-| Q17 | Saves detected landing pad image as `sahi.jpg` |
-
----
-
-## 📂 Assets
-
-Place any required images inside the `assets/` folder. Rename them to `sample.jpg` or update the path inside the respective script before running.
-
----
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+**Tanisha Pattnaik**
+- GitHub: [@Tanisha095](https://github.com/Tanisha095)
 
 ---
 
